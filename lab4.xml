@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/css' href='4.css'?>
+<STUDENTDATA>
+	<STUDENT>
+		<NAME>Sumit Srivastava</NAME>
+		<USN>1TE24CS287</USN>
+		<EMAIL>sumsri2024@gmail.com</EMAIL>
+		<COURSE>BE</COURSE>	
+	</STUDENT>
+	<STUDENT>
+		<NAME>Raushn Srivastava</NAME>
+		<USN>1TE24CS237</USN>
+		<EMAIL>raushhh@gmail.com</EMAIL>
+		<COURSE>ME</COURSE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Anuja Kumari</NAME>
+		<USN>1TE24CS058</USN>
+		<EMAIL>ranchi@gmail.com</EMAIL>
+		<COURSE>EEE</COURSE>
+	</STUDENT>
+	<STUDENT>
+		<NAME>Rajat Arpit Raj</NAME>
+		<USN>1TE24CS232</USN>
+		<EMAIL>oneeyedking@gmail.com</EMAIL>
+		<COURSE>AIML</COURSE>
+	</STUDENT>
+</STUDENTDATA>
